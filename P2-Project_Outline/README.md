@@ -11,9 +11,13 @@ I will be creating a Dungeons and Dragons website where players can create and s
 ### Features
 User Login - The app would include a user login so you can create and account and store the character you make and not have to keep remaking them everytime you visit the sight. 
 Create - The app would allow you to create a new character by choosing it's race, class, and abilities. If you have an account you will be able to store, delete, and edit them as well.
+
 Randomize - This is similar to the create feature but it will just give you random everything for the options and be a fun way to play the game.
+
 Description Page - Not so much a feature but I want to include a page of the rules of D&D, simple and advanced, so anyone can use the app.
+
 Dice/Roll page - This kind of add onto the description page. It will explain the types of dice and when to use certain ones. It will also have a table of how and what to add to each roll for any combinaton of race/class.
+
 Share - I would like to somehow add a way to be able to share the characters you make with others. This feature is still a ??? because I'm not sure how to do it.
 ### Technologies
 MySQL
