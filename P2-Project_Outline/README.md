@@ -9,7 +9,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 I will be creating a Dungeons and Dragons website where players can create and store characters. New players to D&D will be able to learn about all the different aspects that go into creating a new character and have a place to store any that want to make. Experienced players will be able to do the same but also use some features that are for more advanced players. The biggest reason for creating this is I hear people say so many times,"I wanna play D&D but never have. It seems to complicated.", when in reality it's not. I wanna introduce people to a whole new fun world.
 ### Features
-User Login - The app would include a user login so you can create and account and store the character you make and not have to keep remaking them everytime you visit the sight. 
+User Login - The app would include a user login so you can create and account and store the character you make and not have to keep remaking them everytime you visit the sight.
+
 Create - The app would allow you to create a new character by choosing it's race, class, and abilities. If you have an account you will be able to store, delete, and edit them as well.
 
 Randomize - This is similar to the create feature but it will just give you random everything for the options and be a fun way to play the game.
