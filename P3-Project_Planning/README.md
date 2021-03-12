@@ -16,7 +16,7 @@ https://trello.com/b/rskCHl68/dnd-api
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/mgraham55/CodingEventsDemo.git
 
 ### Resume
 
