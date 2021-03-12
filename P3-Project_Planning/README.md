@@ -18,6 +18,3 @@ https://trello.com/b/rskCHl68/dnd-api
 
 https://github.com/mgraham55/CodingEventsDemo.git
 
-### Resume
-
-https://docs.google.com/document/d/1SD21O27et_V-5lnb66F3Eq97iWv4jGbKG2tMtY0nqMM/edit?usp=sharing
