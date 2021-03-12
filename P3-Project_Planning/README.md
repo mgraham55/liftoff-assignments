@@ -8,12 +8,16 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://balsamiq.cloud/s2sq9za/pk10lf5
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/rskCHl68/dnd-api
 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+### Resume
+
+https://docs.google.com/document/d/1SD21O27et_V-5lnb66F3Eq97iWv4jGbKG2tMtY0nqMM/edit?usp=sharing
