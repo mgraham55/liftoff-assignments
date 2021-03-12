@@ -14,5 +14,6 @@ https://www.linkedin.com/in/michael-graham-54694384/
 
 ### Resume
 
+https://docs.google.com/document/d/1SD21O27et_V-5lnb66F3Eq97iWv4jGbKG2tMtY0nqMM/edit?usp=sharing
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
